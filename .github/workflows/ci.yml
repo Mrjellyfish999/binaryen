@@ -337,4 +337,4 @@ jobs:
     - name: upload coverage
       uses: codecov/codecov-action@v3
       with:
-        gcov: true
+        gcov: false
